@@ -1,4 +1,4 @@
-def game
-  def dice
+class Dice
+  def roll
   end
 end
